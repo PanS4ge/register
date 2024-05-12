@@ -1,0 +1,17 @@
+{
+    "description": "My biopage mirror",
+
+    "domain": "is-cool.dev",
+    "subdomain": "pansage",
+
+    "owner": {
+        "repo": "https://github.com/PanS4ge/PanS4ge",
+        "email": "root@pansage.xyz"
+    },
+
+    "record": {
+        "A": ["137.74.3.247"]
+    },
+
+    "proxied": true
+}
